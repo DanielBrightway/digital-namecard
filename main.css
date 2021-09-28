@@ -153,7 +153,7 @@ img.profile-pic {
     font-weight: 555;
     font-width: 100;
     color: #ffffff;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .text-detail {
@@ -161,7 +161,7 @@ img.profile-pic {
     font-weight: 555;
     font-width: 100;
     color: #ffffff;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .bottom {
@@ -178,7 +178,7 @@ img.profile-pic {
 	line-height: 48px;
 	font-family:'Open Sans', sans-serif;
 	color: #0077c8;
-	font-weight: 300;
+	font-weight: 800;
 }
 
 @media screen and (max-width: 600px) {
